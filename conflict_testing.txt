@@ -1,1 +1,2 @@
 this is the content from main for conflict testing
+this line frmo child2
